@@ -2,6 +2,7 @@ import { icons } from 'lucide';
 import './style.css';
 import './fonts.css';
 import './all1.css';
+import './luminous-alt.css';
 
 const featured = ['Activity','Airplay','AlarmClock','Aperture','Archive','ArrowDown','ArrowUpRight','Atom','Award','BadgeCheck','Bell','Bike','Bird','Bluetooth','Bolt','BookOpen','Bot','Box','Briefcase','Brush','Calendar','Camera','ChartNoAxesCombined','Check','CircleHelp','Cloud','Code2','Coffee','Compass','Copy','Cpu','Crown','Diamond','Download','Droplets','Eye','Feather','FileText','Flag','Flame','Folder','Gamepad2','Gauge','Gem','Gift','Globe2','Heart','Home','Image','KeyRound','Laptop','Layers','Lightbulb','Link','Lock','Mail','Map','MessageCircle','Mic','Moon','MousePointer2','Music2','Package','Palette','PenTool','Phone','Plane','Play','Plus','Rocket','Search','Send','Settings2','Shield','Sparkles','Star','Sun','Terminal','ThumbsUp','Timer','TrainFront','Trash2','Trophy','Upload','UserRound','Volume2','WandSparkles','Wifi','Zap'];
 const categories = { All: featured, Communication:['Mail','MessageCircle','Phone','Mic','Send','Wifi'], Media:['Camera','Image','Music2','Play','Volume2','Airplay'], Objects:['Archive','Box','Briefcase','Coffee','Folder','Package'], Nature:['Bird','Cloud','Droplets','Feather','Flame','Moon','Sun'], System:['Activity','Bell','Bluetooth','Cpu','KeyRound','Lock','Settings2','Terminal'] };
